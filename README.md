@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--bDM7I2tI--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/wrypp5so7wzmjzt7vbgz.jpeg)
+[![MasterHead](https://github.com/ashishpal009/ashishpal009/blob/main/ashiiii.png)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
