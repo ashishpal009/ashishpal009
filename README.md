@@ -7,17 +7,17 @@
 
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [ashishpal584.netlify.app](ashishpal584.netlify.app)
 
-- 💬 Ask me about **HTLM,Css,Python**
+- 💬 Ask me about **HTLM,Css,Python,Java,SQL,MACHINE LEARNING,EXCEL**
 
 - 📫 How to reach me **ashu584584@gmail.com**
 
 - 📄 Know about my experiences [https://rxresu.me/ashu584584/ashish-pal](https://rxresu.me/ashu584584/ashish-pal)
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Data Analyst Enthusiast
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
