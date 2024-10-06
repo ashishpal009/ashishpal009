@@ -1,23 +1,26 @@
 [![MasterHead](https://github.com/ashishpal009/ashishpal009/blob/main/ashiiii.png)
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpal009&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpal009" /> </p>
 
 
 
-- 🌱 I’m currently learning **Data Science**
+-🌱 Aspiring Data Scientist
 
-- 👨‍💻 All of my projects are available at [ashishpal584.netlify.app](ashishpal584.netlify.app)
+👨‍💻 Explore my projects at ashishpal584.netlify.app
 
-- 💬 Ask me about **HTLM,Css,Python,Java,SQL,MACHINE LEARNING,EXCEL**
+  Programming Languages: Python, SQL , Java, HTML, CSS
+  
+• Data Analysis Tools: Pandas, NumPy, scikit-learn, Advance Excel.
+• Data Visualization: Power Bi Desktop, Tableau, Matplotlib, Seaborn.
+• Database Management: MsSQL, PostgreSQL .
+• Statistical Analysis: Descriptive Statistics, Inferential Statistics, Hypothesis testing, Probability.
+• Machine Learning: Supervised, Unsupervised.
+• Deep Learning: ANN, CNN
 
-- 📫 How to reach me **ashu584584@gmail.com**
-
-- 📄 Know about my experiences [https://rxresu.me/ashu584584/ashish-pal](https://rxresu.me/ashu584584/ashish-pal)
-
-- ⚡ Data Analyst Enthusiast
+📫 Reach out via ashu584584@gmail.com
+📄 Learn more about my experience: My Resume [ ]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
