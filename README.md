@@ -1,12 +1,11 @@
-[![MasterHead](https://github.com/ashishpal009/ashishpal009/blob/main/ashiiii.png)
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+<h1 align="center">Welcome! I’m Ashish – Data Enthusiast</h1>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpal009&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpal009" /> </p>
 
 
 
--🌱 Aspiring Data Scientist
+Aspiring Data Scientist | Passionate About Transforming Data into Insights
 
 👨‍💻 Explore my projects at ashishpal584.netlify.app
 
@@ -24,8 +23,6 @@
 <a href="https://instagram.com/ll_ashu_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll_ashu_01" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishpal009&show_icons=true&locale=en&layout=compact" alt="ashishpal009" /></p>
 
